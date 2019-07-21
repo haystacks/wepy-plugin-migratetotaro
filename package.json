@@ -1,6 +1,6 @@
 {
   "name": "wepy-plugin-migrate2taro",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "迁移Wepy项目到Taro项目",
   "main": "lib/index.js",
   "scripts": {
